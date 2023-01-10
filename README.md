@@ -13,6 +13,7 @@ Before starting:
 ## hatch.txt
 Automatically runs back and forth and presses A every two seconds to hatch eggs. I recommend doing this at the area zero entrance. 
 You may need to increase or decrease the amount of loops depending on the egg cycles of the pokemon you are hatching. I use this with a flame body pokemon but it is not technically required, you would just have to increase the amount of loops.
+ - For example Eevee has 35 egg cycles: with a flame body pokemon, I loop 55 times to hatch 5 eggs.
 
 ## eggs.txt
 Collects eggs when you position your character in front of the picnic basket in Pokemon Scarlet/Violet. Make sure to use an egg sandwich. I use the Great Peanut Butter Sandwich. The ingredients are 1 banana, 1 peanut butter, and 1 butter. You can still make the sandwich without the recipe as long as you have the ingredients.
