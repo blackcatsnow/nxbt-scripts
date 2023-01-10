@@ -2,7 +2,7 @@
 A collection of scripts I'm working on for use in https://github.com/Brikwerk/nxbt. 
 
 ## hatch-box.txt
-automatically runs back and forth to hatch eggs and then switches out a new column of eggs, then repeats for the entire box. 
+Automatically runs back and forth to hatch eggs and then switches out a new column of eggs, then repeats for the entire box. This is still a work in progress. 
 Before starting:
 
  1. Go somewhere without anything to run into. I recommend the area zero entrance. 
