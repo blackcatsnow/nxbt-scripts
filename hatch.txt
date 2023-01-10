@@ -1,0 +1,5 @@
+LOOP 45
+    L_STICK@+000-100 2S
+    A 0.2S
+    L_STICK@+000+100 2S
+    A 0.2S
