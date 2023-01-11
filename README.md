@@ -1,7 +1,7 @@
 # nxbt-scripts
 A collection of scripts I'm working on for use in https://github.com/Brikwerk/nxbt. 
 
-## Diclaimer
+## Disclaimer
 These scripts are meant for the cli. For use in the webapp some of the loops will need to be adjusted. I have some problems in the nxbt cli not registering button presses so I made some buttons loop to fix this.
 
 ### hatch-box.txt
