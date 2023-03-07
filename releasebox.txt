@@ -1,0 +1,35 @@
+A 0.2S
+0.2S
+0.2S
+LOOP 5
+	LOOP 6
+		A 0.2S
+		0.2S
+		0.2S
+		LOOP 2
+			DPAD_UP 0.05S
+			0.05S
+			0.05S
+		A 0.2S
+		0.2S
+		0.2S
+		DPAD_UP 0.2S
+		0.2S
+		0.2S
+		LOOP 3	
+			A 0.2S
+			0.2S
+			0.2S
+		DPAD_RIGHT 0.05S
+		0.05S
+		0.05S
+	DPAD_RIGHT 0.05S
+	0.05S
+	0.05S
+	DPAD_DOWN 0.05S
+	0.05S
+	0.05S
+LOOP 2	
+	DPAD_DOWN 0.1S
+	0.1S
+	0.1S
