@@ -1,0 +1,82 @@
+LOOP 2
+	X 0.2S
+	0.2S
+	0.5S
+DPAD_RIGHT 0.2S
+0.2S
+0.2S
+LOOP 2
+    DPAD_DOWN 0.1S
+    0.1S
+    0.1S
+A 0.1S
+0.1S
+7S
+L 0.2S
+0.1S
+0.3S
+L_STICK@-000+100 0.75S
+1S
+LOOP 2
+    A 0.2S
+    0.1S
+    1S
+3S
+LOOP 8
+    DPAD_DOWN 0.1S
+    0.1S
+    0.2S
+LOOP 2
+    A 0.2S
+    0.2S
+    0.2S
+8S
+LOOP 3
+    L_STICK@-000+085 0.75S
+    0.1S
+    0.5S
+    A L_STICK@+000-085 0.6S
+    0.1S
+    0.5S
+L_STICK@-000+085 0.75S
+0.1S
+0.5S
+A 0.2S
+0.2S
+0.2S
+A 0.2S
+0.2S
+0.2S
+1S
+LOOP 2
+	A 0.2S
+	0.2S
+	1S
+9S
+A 0.2S
+0.2S
+0.2S
+25S
+A 0.2S
+0.2S
+0.2S
+3S
+L_STICK@-050+000 1S
+1S
+0.2S
+L_STICK@+000+050 1.5S
+1S
+0.2S
+L_STICK@+050+000 1.5S
+1S
+0.2S
+LOOP 20
+	LOOP 2
+		A 0.1S
+		0.1S
+		0.1S
+	LOOP 75
+		B 0.05S
+		0.05S
+		0.1S
+	30S
