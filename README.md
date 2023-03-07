@@ -11,7 +11,7 @@ Before starting:
  1. Go somewhere without anything to run into. I recommend the area zero entrance. 
  2. Make sure to have only a flame body pokemon in your party.
  3. Go to boxes and make sure you are on the box with the eggs then close boxes.
- 4. Make sure your cursor is on the pokemon in your party then close the menu by pressing B.
+ 4. Make sure your cursor is on the first pokemon in your party then close the menu by pressing B.
 
 ### hatch.txt
 Automatically runs back and forth and presses A every two seconds to hatch eggs. I recommend doing this at the area zero entrance. 
