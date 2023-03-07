@@ -21,3 +21,9 @@ You may need to increase or decrease the amount of loops depending on the egg cy
 ### eggs.txt
 Collects eggs when you position your character in front of the picnic basket in Pokemon Scarlet/Violet. Make sure to use an egg sandwich. I use the Great Peanut Butter Sandwich. The ingredients are 1 banana, 1 peanut butter, and 1 butter. You can still make the sandwich without the recipe as long as you have the ingredients.
 
+### ace.txt
+Simple script that spams the A button for farming the ace academy tournament in scarlet/violet
+
+### releasebox.txt
+Releases an entire box of pokemon at a time. 
+ - Make sure your cursor is on the first pokemon in the box you want to release.
